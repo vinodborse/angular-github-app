@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-github-app"
+    }
+  },
+  "defaultProject": "angular-github-app",
+  "cli": {
+    "analytics": false
+  }
 }
